@@ -1,1 +1,1 @@
-Project is image only to protect the math behind my projections.
+Project is image only to keep my methods private
