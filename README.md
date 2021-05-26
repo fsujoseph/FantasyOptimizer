@@ -1,3 +1,5 @@
+# Fantasy Optimizer
+
 This project is something I've been working on for a long time. Sports has long been a passion of mine. I've been playing fantasy sports since I was 12! My dad let me have my own team in his friend's league when a spot opened up. Since then I've been playing pretty much fantasy anything.
 
 Daily fantasy sports let you create a new lineup every day/week which is great if your season long team is struggling. I was also intruiged by how the "sharks", aka the guys who do it for a living win consistently. No doubt they are great fans and watch the games, but they let their math make the decisions with their models. It's all a game of numbers and matchups. I wanted to try and crack the code, but was unable at the time.
